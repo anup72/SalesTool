@@ -1,0 +1,4 @@
+-- Run the following commands to configure your Git username and email using the following commands----
+
+	$ git config --global user.name "Emma Paris"
+	$ git config --global user.email "eparis@atlassian.com"
